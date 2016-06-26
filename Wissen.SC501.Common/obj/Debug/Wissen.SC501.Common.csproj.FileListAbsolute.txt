@@ -1,0 +1,5 @@
+C:\Users\HasKhan\Desktop\winMyBlogManager\Wissen.SC501.Common\bin\Debug\Wissen.SC501.Common.dll
+C:\Users\HasKhan\Desktop\winMyBlogManager\Wissen.SC501.Common\bin\Debug\Wissen.SC501.Common.pdb
+C:\Users\HasKhan\Desktop\winMyBlogManager\Wissen.SC501.Common\obj\Debug\Wissen.SC501.Common.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winMyBlogManager\Wissen.SC501.Common\obj\Debug\Wissen.SC501.Common.dll
+C:\Users\HasKhan\Desktop\winMyBlogManager\Wissen.SC501.Common\obj\Debug\Wissen.SC501.Common.pdb

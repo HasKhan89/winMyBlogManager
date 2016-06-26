@@ -1,0 +1,13 @@
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\bin\Debug\winMyBlogManager.exe.config
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\bin\Debug\winMyBlogManager.exe
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\bin\Debug\winMyBlogManager.pdb
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\bin\Debug\Wissen.SC501.Common.dll
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\bin\Debug\Wissen.SC501.Common.pdb
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\obj\Debug\winMyBlogManager.csprojResolveAssemblyReference.cache
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\obj\Debug\winMyBlogManager.Form1.resources
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\obj\Debug\winMyBlogManager.KategoriIslemleriFormu.resources
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\obj\Debug\winMyBlogManager.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\obj\Debug\winMyBlogManager.SifrelemeFormu.resources
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\obj\Debug\winMyBlogManager.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\obj\Debug\winMyBlogManager.exe
+C:\Users\HasKhan\Desktop\winMyBlogManager\winMyBlogManager\obj\Debug\winMyBlogManager.pdb
